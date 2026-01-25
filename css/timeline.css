@@ -1,0 +1,22 @@
+/* time line items */
+.timeline {
+    background: #fef5f0;
+    padding: 70px 20px;
+    text-align: center;
+}
+
+.timeline h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+.timeline-item {
+    margin-bottom: 30px;
+}
+
+.timeline-item span {
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    margin-bottom: 5px;
+}
