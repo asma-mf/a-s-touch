@@ -1,0 +1,41 @@
+{
+  "brand": {
+    "name": "A.S. Touch",
+    "tagline": "Hand-painted & hand-knotted bags"
+  },
+  "contact": {
+    "email": "astouch@gmail.com",
+    "phone": "0772409504",
+    "instagram": "a.s.touch",
+    "whatsapp": ""
+  },
+  "discordWebhookUrl": "",
+  "announcement": "Every piece is made by hand, to order. Worldwide enquiries welcome — message us to order.",
+  "testimonials": [],
+  "faq": [
+    {
+      "q": "Can I buy directly from the website?",
+      "a": "Not at the moment. We deliberately don't run an online checkout: every piece is handmade, so we like to talk with you first about the design, colours and details. Send us an enquiry and we'll take care of the rest personally."
+    },
+    {
+      "q": "Do you welcome international customers?",
+      "a": "Yes. We love creating for people all over the world. Tell us your country in your enquiry and we'll discuss delivery options, timing and costs with you before anything is confirmed."
+    },
+    {
+      "q": "Can I commission a custom design?",
+      "a": "Absolutely. Custom art orders are one of the things we love most. Share your colours, ideas or inspiration and we'll propose a design for your approval. Every custom bag is painted and knotted just for you."
+    },
+    {
+      "q": "Will my bag look exactly like the photos?",
+      "a": "Each piece is painted or knotted by hand, so small variations are what make it one of a kind. Your bag will carry the same spirit, palette and quality as the photos, but it will be uniquely yours."
+    },
+    {
+      "q": "How do I look after my bag?",
+      "a": "Spot-clean painted pieces gently with a damp cloth and avoid soaking them. Knotted pieces can be reshaped by hand and aired out; avoid harsh detergents. We'll share full care notes with every order."
+    },
+    {
+      "q": "How do I pay, and how long will it take?",
+      "a": "Payment method and timeline are agreed with you directly once the design is confirmed, so you always know exactly what to expect before we begin."
+    }
+  ]
+}
